@@ -4,7 +4,7 @@
 
 YOU NEED TO OPEN 2 TERMINALS TO START THIS APP AND SHOULD HAVE NODE.js INSTALLED
 
-Step 1: Type "npm install" to install the dependencies and type "node index.js" to start the backend
+Step 1: Open first terminal and go to the folder where you have saved these files anf type "npm install" to install the dependencies and type "node index.js" to start the backend.
 
 Step 2: Open another terminal and go to client folder and type "npm install" again and then type "npm start" to run the application
 
