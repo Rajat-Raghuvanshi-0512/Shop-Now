@@ -3,6 +3,7 @@ const cors = require('cors');
 const app = express();
 const RazorPay = require('./Router/RazorPay')
 const path = require("path")
+require("dotenv").config();
 
 const PORT = process.env.PORT || 5000;
 
